@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add a compact map legend for visible utility markers, partner badges, proximity circles, selected distance and project density. Keep it readable in both map themes and clear of zoom controls.
+
 - Restore map wheel/trackpad and touch zoom. Clear selection by activating a selected marker again or clicking empty map space, with pressed-state labels and retained marker keyboard focus.
 
 - Add top padding to the comparison empty-state message and upload action.
